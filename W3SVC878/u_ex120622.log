@@ -1,0 +1,18 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-06-22 00:06:25
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-06-22 00:06:25 W3SVC878 174.37.243.135 GET / - 80 - 94.153.65.178 Opera/9.0+(Windows+NT+5.1;+U;+en) 200 0 0 7329 124 251
+2012-06-22 00:06:26 W3SVC878 174.37.243.135 GET / - 80 - 94.153.65.178 Opera/9.0+(Windows+NT+5.1;+U;+en) 200 0 64 0 124 261
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-06-22 01:11:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-06-22 01:11:35 W3SVC878 174.37.243.135 GET /products.php cid=1 80 - 208.115.113.85 Mozilla/5.0+(compatible;+Ezooms/1.0;+ezooms.bot@gmail.com) 200 0 0 8836 204 232
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-06-22 03:04:20
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-06-22 03:04:19 W3SVC878 174.37.243.135 GET / - 80 - 124.115.0.105 Sosospider+(+http://help.soso.com/webspider.htm) 304 0 0 210 270 265
+2012-06-22 03:09:55 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 208.115.113.85 Mozilla/5.0+(compatible;+Ezooms/1.0;+ezooms.bot@gmail.com) 404 0 2 5421 196 139
+2012-06-22 03:12:08 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 1.202.218.8 "Mozilla/5.0 404 0 64 0 183 880

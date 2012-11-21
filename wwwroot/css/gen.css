@@ -1,0 +1,293 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:#000000;
+	margin:0px;
+	background-image:url(../images/general/bg_header.jpg);
+	background-repeat:no-repeat;
+	background-position:top;
+}
+
+#logo {
+	height:141px;
+	width:178px;
+	padding-top:42px;
+	padding-left:40px;
+	padding-right:22px;
+	padding-bottom:32px;
+}
+#navigation {
+	padding-left:20px;
+	height:30px;
+	padding-top:87px;
+	padding-bottom:53px;
+	padding-right:90px;
+	width:552px;
+}
+#navigation ul {
+	background:#000000;
+	border-color:#222222;
+	border-style:solid;
+	border-width:1px;
+	list-style-type:none;
+	float:left;
+	width:552px;
+	margin:0px;
+	line-height:30px;
+	font-family:Tahoma, Verdana, Arial;
+	font-size:10px;
+	color:#FFFFFF;
+	font-weight:bolder;
+	text-transform:uppercase;
+	padding:0px;
+}
+#navigation li {
+	display:inline;
+	text-align:left;
+	
+}
+#navigation li a {
+	text-decoration:none;
+	color:#FFFFFF;
+	padding-left:3px;
+	padding-right:3px;
+	/*padding-left:5px;
+	padding-right:5px;
+	padding-top:3px;
+	padding-bottom:3px;*/
+}
+/*
+#navigation li a:hover {
+	text-decoration:none;
+	color:#FFFFFF;
+	background-color:#993300;
+	padding-left:5px;
+	padding-right:5px;
+	padding-top:3px;
+	padding-bottom:3px;
+}
+*/
+#navigation li.separator {
+	padding-left:2px;
+	padding-right:2px;
+}
+#navigation li.first_link {
+	padding-left:6px;
+}
+.mover {
+	background-image:url(../images/navigation/bg.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+#left_panel_position {
+	padding-top:0px;
+	padding-left:40px;
+	padding-right:0px;
+	width:200px;
+}
+#left_panel {
+	color:#FFFFFF;
+	border-color:#222222;
+	border-style:solid;
+	border-width:1px;
+	background-color:#000000;
+
+}
+#left_panel_content {
+	padding-left:21px;
+	padding-top:37px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	font-size:11px;
+	padding-right:15px;
+	width:162px;
+	padding-bottom:37px;
+	
+}
+#left_panel_content a{
+	font-family:"Trebuchet MS", Verdana, Tahoma;
+	text-decoration:none;
+	color:#993300;
+	font-weight:bolder;
+
+}
+#left_panel_content a:hover {
+	text-decoration:underline;
+	color:#993300;
+	font-weight:bolder;
+}
+.separator_1px {
+	background-image:url(../images/general/separator_1px.gif);
+	background-repeat:repeat-x;
+	background-position:center;
+	height:1px;
+
+}
+#left_panel_content ul.category {
+	list-style-type:square;
+	color:#993300;
+	font-weight:bold;
+	font-family:"Trebuchet MS", Verdana, Tahoma;
+	font-size:11px;
+	padding:0px;
+	margin:0px;
+	margin-left:23px;
+}
+#left_panel_content ul.category li {
+	list-style-type:none;
+	color:#FFFFFF;
+	
+}
+#left_panel_content ul.category li a {
+	font-weight:bold;	
+	color:#FFFFFF;
+	text-decoration:none;
+	padding-left:10px;
+	line-height:20px;
+}
+#left_panel_content ul.category li a:hover {
+	color:#993300;
+	text-decoration:none;
+	font-weight:bold;
+	color:#993300;
+	background-image:url(../images/general/leftpanel_li.gif);
+	background-repeat:no-repeat;
+	background-position:left;
+	padding-left:10px;
+	line-height:20px;
+}
+
+#content {
+	color:#FFFFFF;
+	padding-left:20px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11.5px;
+	padding-right:0px;
+	padding-top:0px;
+}
+#content .heading {
+	font-size:22px;
+}
+.palign {
+	padding-top:19px;
+}
+#content .separator {
+	background-image:url(../images/general/separator_2px.gif);
+	background-repeat:repeat-x;
+	background-position:center;
+	line-height:2px;
+}
+#content .category_within_content {
+	font-size:18px;
+	padding-top:10px;
+	margin:0px;
+}
+#content ul.category_within_content {
+	list-style-type:none;
+	margin:0px;
+}
+#content ul.category_within_content li {
+	display:inline;
+	margin:0px;
+}
+#content ul.category_within_content li a {
+	background-position:center;
+	background-repeat:no-repeat;
+	color:#FFFFFF;
+	text-decoration:none;
+	background-image:url(../images/buttons/ladies_bg.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	padding-left:28px;
+	padding-right:29px;
+	padding-top:10px;
+	padding-bottom:10px;
+
+}
+#content ul.category_within_content li a:hover {
+	background-image:url(../images/buttons/ladies_mover_bg.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	padding-left:28px;
+	padding-right:29px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.infrastructure {
+	padding-left:0px;
+	padding-right:5px;
+}
+
+#footer {
+/*	background-image:url(../images/general/bg_footer.jpg);
+	background-position:top;
+	background-repeat:no-repeat;*/
+	width:724px;
+	height:56px;
+	text-align:left;
+	padding-left:20px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#9B7766;
+	padding-top:15px;
+	float:left;
+
+}
+#footer a {
+	color:#9B7766;
+	text-decoration:none;
+}
+#contactus_align {
+	padding-top:46px;
+}
+.headings {
+	color:#666666;
+}
+input.textfield {
+	background:#000000;
+	border-color:#555555;
+	border-style:solid;
+	border-width:1px;
+	color:#666666;
+	width:137px;
+}
+textarea.textfield {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	height: 80px;
+	border: 1px solid #555555;
+	padding: 5px;
+	background-color:#000000;
+	overflow:auto;
+	color:#666666;
+	width:300px;
+}
+.links a {
+	font-family:"Trebuchet MS", Verdana, Tahoma;
+	text-decoration:none;
+	color:#993300;
+	font-weight:bold;
+	font-size:11px;
+}
+.links a:hover {
+	text-decoration:underline;
+	color:#993300;
+	font-weight:bold;
+}
+.message {
+	color:#FF0000;
+}
+.infrastructure_border {
+	border-color:#666666;
+	border-style:solid;
+	border-width:1px;
+}
+.paraheading{
+	color:#993300;
+	font-size:100%;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	font-size:12px;
+}

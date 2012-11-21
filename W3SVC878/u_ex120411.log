@@ -1,0 +1,135 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 01:01:43
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 01:01:43 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 1.202.218.8 "Mozilla/5.0 404 0 64 0 183 770
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 01:31:28
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 01:31:28 W3SVC878 174.37.243.135 HEAD / - 80 - 66.55.72.26 - 200 0 0 247 75 78
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 02:39:04
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 02:39:04 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 123.125.71.87 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) 404 0 64 0 205 280
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 03:32:53
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 03:32:52 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 180.76.6.20 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 404 0 64 0 189 237
+2012-04-11 03:34:45 W3SVC878 174.37.243.135 GET /products.php cid=2 80 - 100.43.83.138 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 3410 287 468
+2012-04-11 03:38:29 W3SVC878 174.37.243.135 GET / - 80 - 124.115.0.162 Sosospider+(+http://help.soso.com/webspider.htm) 304 0 0 210 270 269
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 04:14:59
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 04:14:58 W3SVC878 174.37.243.135 GET /infrastructure.htm - 80 - 100.43.83.138 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 4294 287 479
+2012-04-11 04:18:50 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 119.63.196.16 Baiduspider+(+http://www.baidu.com/search/spider.htm) 404 0 64 0 205 180
+2012-04-11 04:19:01 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 124.115.6.10 Sosospider+(+http://help.soso.com/webspider.htm) 404 0 64 0 230 511
+2012-04-11 04:25:45 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 1.202.218.8 "Mozilla/5.0 404 0 64 0 183 718
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 07:09:01
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 07:09:01 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 65.52.110.143 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 5417 269 71
+2012-04-11 07:14:53 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 123.2.148.62 Mozilla/5.0+(compatible;+MJ12bot/v1.4.2;+http://www.majestic12.co.uk/bot.php?+) 404 0 2 5436 186 981
+2012-04-11 07:15:07 W3SVC878 174.37.243.135 GET / - 80 - 123.2.148.62 Mozilla/5.0+(compatible;+MJ12bot/v1.4.2;+http://www.majestic12.co.uk/bot.php?+) 200 0 0 7348 344 1206
+2012-04-11 07:15:15 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 123.2.148.62 Mozilla/5.0+(compatible;+MJ12bot/v1.4.2;+http://www.majestic12.co.uk/bot.php?+) 404 0 2 5440 335 1029
+2012-04-11 07:15:17 W3SVC878 174.37.243.135 GET / - 80 - 123.2.148.62 Mozilla/5.0+(compatible;+MJ12bot/v1.4.2;+http://www.majestic12.co.uk/bot.php?+) 200 0 0 7348 348 928
+2012-04-11 07:28:24 W3SVC878 174.37.243.135 GET / - 80 - 65.52.110.143 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 64 0 357 21
+2012-04-11 07:37:14 W3SVC878 174.37.243.135 GET / - 80 - 220.181.108.119 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) 200 0 0 2940 229 1618
+2012-04-11 07:37:29 W3SVC878 174.37.243.135 GET /contact-us.php - 80 - 220.181.108.179 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) 200 0 0 4706 243 10092
+2012-04-11 07:51:19 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 1.202.218.8 "Mozilla/5.0 404 0 64 0 183 721
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 08:17:40
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 08:17:39 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 69.28.58.15 HuaweiSymantecSpider/1.0+DSE-support@huaweisymantec.com+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+;+http://www.huaweisymantec.com/en/IRL/spider) 404 0 2 5440 360 193
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 10:09:27
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 10:09:26 W3SVC878 174.37.243.135 GET / - 80 - 123.125.68.82 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) 200 0 0 2940 229 863
+2012-04-11 10:11:30 W3SVC878 174.37.243.135 GET / - 80 - 123.125.68.88 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) 200 0 0 2940 229 857
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 10:38:48
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 10:38:48 W3SVC878 174.37.243.135 GET / - 80 - 109.120.157.179 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 7329 165 255
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 10:54:50
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 10:54:49 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 66.249.72.101 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 5421 271 19
+2012-04-11 10:54:49 W3SVC878 174.37.243.135 GET /infrastructure.htm - 80 - 66.249.72.101 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0 211 303 49
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 11:11:55
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 11:11:55 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 1.202.218.8 "Mozilla/5.0 404 0 64 0 183 716
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 11:42:31
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 11:42:31 W3SVC878 174.37.243.135 GET / - 80 - 124.115.0.168 Sosospider+(+http://help.soso.com/webspider.htm) 304 0 0 210 270 290
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 12:17:21
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 12:17:21 W3SVC878 174.37.243.135 GET / - 80 - 94.153.65.230 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 64 0 165 249
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 12:54:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 12:54:23 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 213.186.127.9 Mozilla/5.0+(compatible;+AhrefsBot/2.0;++http://ahrefs.com/robot/) 404 0 2 5417 178 253
+2012-04-11 13:07:26 W3SVC878 174.37.243.135 GET /photos.xml - 80 - 66.249.72.101 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0 211 295 9
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 14:40:29
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 14:40:29 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 1.202.218.8 "Mozilla/5.0 404 0 64 0 183 730
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 15:52:53
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 15:52:53 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 65.52.110.152 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 5421 273 39
+2012-04-11 15:53:56 W3SVC878 174.37.243.135 GET /about-us.htm - 80 - 65.52.110.152 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 64 0 374 22
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 16:21:49
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 16:21:48 W3SVC878 174.37.243.135 GET / - 80 - 193.106.136.59 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 64 0 160 354
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 18:05:37
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 18:05:36 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 1.202.218.8 "Mozilla/5.0 404 0 64 0 183 723
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 18:53:00
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 18:52:59 W3SVC878 174.37.243.135 GET / - 80 - 124.115.0.166 Sosospider+(+http://help.soso.com/webspider.htm) 304 0 0 210 270 257
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 19:43:07
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 19:43:06 W3SVC878 174.37.243.135 GET / - 80 - 92.249.127.111 ﻿Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 64 0 164 282
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 21:25:45
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 21:25:44 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 207.46.204.234 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2 5417 269 40
+2012-04-11 21:26:36 W3SVC878 174.37.243.135 GET /quality-process.htm - 80 - 207.46.204.234 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 64 0 377 22
+2012-04-11 21:27:22 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 1.202.218.8 "Mozilla/5.0 404 0 64 0 183 684
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 22:16:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 22:16:23 W3SVC878 174.37.243.135 GET / - 80 - 220.181.94.225 Sogou+web+spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07) 304 0 0 229 406 488
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-04-11 23:20:53
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-04-11 23:20:52 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 94.23.42.135 Mozilla/5.0+(compatible;+MJ12bot/v1.4.2;+http://www.majestic12.co.uk/bot.php?+) 404 0 2 5436 331 342
+2012-04-11 23:20:58 W3SVC878 174.37.243.135 GET /contact-us.php - 80 - 94.23.42.135 Mozilla/5.0+(compatible;+MJ12bot/v1.4.2;+http://www.majestic12.co.uk/bot.php?+) 200 0 0 16389 358 467

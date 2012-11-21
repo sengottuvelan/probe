@@ -1,0 +1,142 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-05-20 00:26:55
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-05-20 00:26:55 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 1.202.218.8 "Mozilla/5.0 404 0 64 0 183 766
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-05-20 01:38:53
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-05-20 01:38:52 W3SVC878 174.37.243.135 GET / - 80 - 125.39.78.178 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) 200 0 0 2940 229 1759
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-05-20 02:14:46
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-05-20 02:14:46 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 124.115.6.10 Sosospider+(+http://help.soso.com/webspider.htm) 404 0 64 0 230 580
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-05-20 03:10:50
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-05-20 03:10:49 W3SVC878 174.37.243.135 GET / - 80 - 124.115.0.22 Sosospider+(+http://help.soso.com/webspider.htm) 304 0 0 210 270 313
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-05-20 03:28:53
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-05-20 03:28:53 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 1.202.218.8 "Mozilla/5.0 404 0 64 0 183 899
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-05-20 04:31:22
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-05-20 04:31:21 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 100.43.83.138 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 5421 191 452
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-05-20 05:18:51
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-05-20 05:18:51 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 94.23.42.135 Mozilla/5.0+(compatible;+MJ12bot/v1.4.3;+http://www.majestic12.co.uk/bot.php?+) 404 0 2 5436 199 261
+2012-05-20 05:18:53 W3SVC878 174.37.243.135 GET / - 80 - 94.23.42.135 Mozilla/5.0+(compatible;+MJ12bot/v1.4.3;+http://www.majestic12.co.uk/bot.php?+) 200 0 0 7348 344 265
+2012-05-20 05:18:54 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 94.23.42.135 Mozilla/5.0+(compatible;+MJ12bot/v1.4.3;+http://www.majestic12.co.uk/bot.php?+) 404 0 2 5440 203 272
+2012-05-20 05:18:56 W3SVC878 174.37.243.135 GET / - 80 - 94.23.42.135 Mozilla/5.0+(compatible;+MJ12bot/v1.4.3;+http://www.majestic12.co.uk/bot.php?+) 200 0 0 7348 348 263
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-05-20 06:01:43
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-05-20 06:01:43 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 66.249.72.101 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 5421 271 24
+2012-05-20 06:01:48 W3SVC878 174.37.243.135 GET /products.php cid=1 80 - 66.249.72.101 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 3408 303 4245
+2012-05-20 06:16:36 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 66.249.72.202 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 5417 267 20
+2012-05-20 06:16:36 W3SVC878 174.37.243.135 GET / - 80 - 66.249.72.202 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0 210 281 50
+2012-05-20 06:29:49 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 1.202.218.8 "Mozilla/5.0 404 0 64 0 183 734
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-05-20 08:45:20
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-05-20 08:45:20 W3SVC878 174.37.243.135 GET / - 80 - 109.120.157.179 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 7329 161 288
+2012-05-20 08:45:22 W3SVC878 174.37.243.135 GET / - 80 - 109.120.157.179 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 7329 161 254
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-05-20 09:32:44
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-05-20 09:32:44 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 1.202.218.8 "Mozilla/5.0 404 0 64 0 183 722
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-05-20 10:28:07
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-05-20 10:28:06 W3SVC878 174.37.243.135 GET / - 80 - 213.110.133.221 Mozilla/4.0+(compatible;+Blog+Search;) 200 0 64 0 127 280
+2012-05-20 10:28:07 W3SVC878 174.37.243.135 GET / - 80 - 213.110.133.221 Mozilla/4.0+(compatible;+Blog+Search;) 200 0 64 0 127 260
+2012-05-20 10:41:51 W3SVC878 174.37.243.135 GET / - 80 - 124.115.0.28 Sosospider+(+http://help.soso.com/webspider.htm) 304 0 0 210 270 272
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-05-20 11:49:51
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-05-20 11:49:51 W3SVC878 174.37.243.135 GET / - 80 - 100.43.83.138 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 2921 269 456
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-05-20 12:26:37
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-05-20 12:26:37 W3SVC878 174.37.243.135 GET / - 80 - 178.137.129.166 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0;+T312461) 200 0 0 7329 150 260
+2012-05-20 12:26:40 W3SVC878 174.37.243.135 GET / - 80 - 178.137.129.166 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0;+T312461) 200 0 64 0 150 3172
+2012-05-20 12:32:35 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 1.202.218.8 "Mozilla/5.0 404 0 64 0 183 772
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-05-20 14:24:26
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-05-20 14:24:25 W3SVC878 174.37.243.135 GET / - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 2921 429 666
+2012-05-20 14:24:25 W3SVC878 174.37.243.135 GET /css/gen.css - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 1990 380 333
+2012-05-20 14:24:25 W3SVC878 174.37.243.135 GET /Scripts/AC_RunActiveContent.js - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 3181 384 687
+2012-05-20 14:24:26 W3SVC878 174.37.243.135 GET /images/probeseven_footer.gif - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 592 382 325
+2012-05-20 14:24:26 W3SVC878 174.37.243.135 GET /images/general/logo.jpg - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 7064 377 655
+2012-05-20 14:24:26 W3SVC878 174.37.243.135 GET /images/general/bg_header.jpg - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 16605 382 1019
+2012-05-20 14:24:26 W3SVC878 174.37.243.135 GET /images/general/separator_1px.gif - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 290 386 467
+2012-05-20 14:24:32 W3SVC878 174.37.243.135 GET /favicon.ico - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 404 0 2 5423 564 511
+2012-05-20 14:24:39 W3SVC878 174.37.243.135 GET /flash/homebanner.swf - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 918130 613 12540
+2012-05-20 14:24:41 W3SVC878 174.37.243.135 GET /images/general/leftpanel_li.gif - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 292 624 459
+2012-05-20 14:24:42 W3SVC878 174.37.243.135 GET /products.php cid=2 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 3410 671 371
+2012-05-20 14:24:42 W3SVC878 174.37.243.135 GET /css/quality.css - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 453 641 445
+2012-05-20 14:24:42 W3SVC878 174.37.243.135 GET /swfobject.js - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 3020 623 458
+2012-05-20 14:24:42 W3SVC878 174.37.243.135 GET /images/description_icon.gif - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 843 638 452
+2012-05-20 14:24:42 W3SVC878 174.37.243.135 GET /images/general/separator_2px.gif - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 290 643 440
+2012-05-20 14:24:44 W3SVC878 174.37.243.135 GET /favicon.ico - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 404 0 2 5423 564 496
+2012-05-20 14:24:45 W3SVC878 174.37.243.135 GET /TiltViewer.swf - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 108614 625 2731
+2012-05-20 14:24:46 W3SVC878 174.37.243.135 GET /gallery_mens.xml - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 1248 623 368
+2012-05-20 14:24:47 W3SVC878 174.37.243.135 GET /images/products/mens/SK_M_119.jpg - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 45760 640 1591
+2012-05-20 14:24:48 W3SVC878 174.37.243.135 GET /images/products/mens/SK_M_120.jpg - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 37420 640 1780
+2012-05-20 14:24:48 W3SVC878 174.37.243.135 GET /images/products/mens/SK_M_117.jpg - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 35454 640 2356
+2012-05-20 14:24:48 W3SVC878 174.37.243.135 GET /images/products/mens/SK_M_121.jpg - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 69265 640 2298
+2012-05-20 14:24:48 W3SVC878 174.37.243.135 GET /images/products/mens/SK_M_118.jpg - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 37617 640 2789
+2012-05-20 14:24:49 W3SVC878 174.37.243.135 GET /images/products/mens/SK_M_123.jpg - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 27847 640 1309
+2012-05-20 14:24:49 W3SVC878 174.37.243.135 GET /images/products/mens/SK_M_124.jpg - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 35081 640 1313
+2012-05-20 14:24:49 W3SVC878 174.37.243.135 GET /images/products/mens/SK_M_125.jpg - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 35518 640 1273
+2012-05-20 14:24:50 W3SVC878 174.37.243.135 GET /images/products/mens/SK_M_126.jpg - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 43098 640 1595
+2012-05-20 14:24:50 W3SVC878 174.37.243.135 GET /images/products/mens/SK_M_122.jpg - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 23314 640 2696
+2012-05-20 14:24:50 W3SVC878 174.37.243.135 GET /images/products/mens/SK_M_116.jpg - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 33968 640 4821
+2012-05-20 14:24:51 W3SVC878 174.37.243.135 GET /images/products/mens/SK_M_101.jpg - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 57633 640 1610
+2012-05-20 14:24:51 W3SVC878 174.37.243.135 GET /images/products/mens/SK_M_102.jpg - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 61588 640 1949
+2012-05-20 14:24:51 W3SVC878 174.37.243.135 GET /images/products/mens/SK_M_104.jpg - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 47157 640 1611
+2012-05-20 14:24:52 W3SVC878 174.37.243.135 GET /images/products/mens/SK_M_103.jpg - 80 - 117.216.40.120 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.46+Safari/536.5 200 0 0 91104 640 2599
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-05-20 15:35:08
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-05-20 15:35:08 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 1.202.218.8 "Mozilla/5.0 404 0 64 0 183 907
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-05-20 17:34:31
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-05-20 17:34:31 W3SVC878 174.37.243.135 GET / - 80 - 192.162.19.183 Mozilla/5.0+(Admin+Catalog;+Windows+NT+5.1;+infobot.4942@yahoo.com) 200 0 0 7329 158 273
+2012-05-20 17:34:31 W3SVC878 174.37.243.135 GET / - 80 - 192.162.19.183 Mozilla/5.0+(Admin+Catalog;+Windows+NT+5.1;+infobot.4942@yahoo.com) 200 0 64 0 158 260
+2012-05-20 17:48:59 W3SVC878 174.37.243.135 GET /TiltViewer.swf - 80 - 66.249.72.101 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 108614 249 82
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-05-20 18:36:13
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-05-20 18:36:12 W3SVC878 174.37.243.135 GET / - 80 - 113.142.10.106 Sosospider+(+http://help.soso.com/webspider.htm) 304 0 0 210 270 281
+2012-05-20 18:37:29 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 1.202.218.8 "Mozilla/5.0 404 0 64 0 183 709
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-05-20 21:40:11
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-05-20 21:40:10 W3SVC878 174.37.243.135 GET /robots.txt - 80 - 1.202.218.8 "Mozilla/5.0 404 0 64 0 183 754
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2012-05-20 23:12:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-05-20 23:12:36 W3SVC878 174.37.243.135 GET / - 80 - 124.115.4.199 Sosospider+(+http://help.soso.com/webspider.htm) 304 0 0 210 270 287
